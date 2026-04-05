@@ -46,7 +46,7 @@ Go to [console.groq.com/keys](https://console.groq.com/keys) and create a key.
 ### 4. Run the app
 
 ```bash
-streamlit run app.py
+streamlit run ai_bot.py
 ```
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
@@ -59,13 +59,12 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 streamlit
 groq
 youtube-transcript-api
-requests
 ```
 
 Install all at once:
 
 ```bash
-pip install streamlit groq youtube-transcript-api requests
+pip install streamlit groq youtube-transcript-api
 ```
 
 ---
@@ -102,7 +101,7 @@ All settings are in the sidebar:
 YouTube blocks subtitle requests from cloud servers (Streamlit Cloud, Railway, etc.).
 
 **Solutions:**
-- ✅ **Run locally** — works perfectly with `streamlit run app.py`
+- ✅ **Run locally** — works perfectly with `streamlit run ai_bot.py`
 - ✅ **Videos with auto-generated captions** tend to work more reliably
 - ⚙️ **Advanced:** configure a [Webshare](https://webshare.io) residential proxy in `.streamlit/secrets.toml`
 
@@ -117,7 +116,7 @@ WEBSHARE_PROXY = "http://user:pass@proxy.webshare.io:80"
 
 ```
 youtube-ai-assistant/
-├── app.py              # Main Streamlit application
+├── ai_bot.py           # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 └── README.md
 ```
