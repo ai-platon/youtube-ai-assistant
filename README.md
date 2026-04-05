@@ -9,6 +9,25 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a2c04cbd-c003-4076-b401-66d94976baf8" width="480"/>
+      <br><sub>Main interface</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5813dd15-b670-4a8e-86cb-034c83c3e221" alt="Summary result" width="480"/>
+      <br><sub>Summary result</sub>
+    </td>
+  </tr>
+</table>
+
+> 💡 **How to add screenshots:** Open this README on GitHub → click the pencil ✏️ (Edit) → drag & drop your images into the editor → GitHub generates asset URLs automatically → replace `YOUR_ASSET_ID_1` and `YOUR_ASSET_ID_2` with those URLs.
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
