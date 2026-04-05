@@ -24,7 +24,6 @@
   </tr>
 </table>
 
-> 💡 **How to add screenshots:** Open this README on GitHub → click the pencil ✏️ (Edit) → drag & drop your images into the editor → GitHub generates asset URLs automatically → replace `YOUR_ASSET_ID_1` and `YOUR_ASSET_ID_2` with those URLs.
 
 ---
 
