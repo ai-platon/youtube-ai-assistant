@@ -6,6 +6,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Llama--3.3--70b-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-platon.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://platon.streamlit.app/)
+
+> 🚀 **[Try it live → platon.streamlit.app](https://platon.streamlit.app/)** — no installation needed
 
 ---
 
